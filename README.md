@@ -19,7 +19,7 @@ Fork the repository [Apprentice-Git-Github](https://github.com/NearsoftApprentic
 Open a Terminal and clone the repository you already forked (the one that is on your account), use the next command on your terminal (in case you're using a client, follow program wizard).
 
 ```bash
-git clone https://github.com/NearsoftApprentice/Apprentice-Git-Github
+git clone https://github.com/[YOUR-ACCOUNT]/Apprentice-Git-Github
 ```
 
 This will create a copy on your computer of the repository.
