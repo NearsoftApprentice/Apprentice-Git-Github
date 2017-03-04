@@ -1,0 +1,6 @@
+Nombre: Sebastián Silva
+Ocupación: Estudiante
+Ingeniería en Computación, Ciudad Universtaria, Universidad Nacional Autónoma de México
+Lenguajes favoritos: JavaScript, Python
+Soltero
+NODE.JS
