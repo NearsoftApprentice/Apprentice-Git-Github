@@ -1,0 +1,7 @@
+Hi , I'm Benjamin Camacho and I want to be a Software Developer.
+
+I have a little experience whith the following programming languages
+1. C#
+2. Java
+
+I also like data analysis and have been working with SQL and R.
